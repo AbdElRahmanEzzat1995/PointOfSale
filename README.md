@@ -15,7 +15,7 @@ Point of sale systems are systems that enable the business transaction between t
 
 Point of sale (POS) may be working without hardware devices, but it is preferred to use the following devices with them to achieve usability and productivity :
 
-#### 2.1 Devices
+### 2.1 Devices
 
 #### Barcode Scanner
 
