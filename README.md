@@ -36,5 +36,57 @@ They are most commonly used in retail shops, gas stations, and restaurants. Food
 
 ## 3. Software
 
+#### 3.1 About
+
+This program is a desktop application written in the C# language that connects to a local Microsoft SQL Server to store the data.
+
+#### 3.2 Requirements : 
+
+1. SQL Server Express 2014
+2. .Net Framework 4.7.2
+
+#### 3.3 Setup : 
+
+###### 3.3.1 Setup the software : 
+
+![](README.assets/Pasted%20image%2020230627022809.png)
+
+![](Pasted%20image%2020230627142137.png)
+
+
+###### 3.3.2 Start Free Trial
+
+- To start a free trial for 30 days. 
+![](README.assets/Pasted%20image%2020230627133814.png)
+
+
+###### 3.3.3 Import the database :
+
+![](Pasted%20image%2020230627140715.png)
+
+![](README.assets/Pasted%20image%2020230627020244.png)
+
+![](README.assets/Pasted%20image%2020230627020217.png)
+
+![](README.assets/Pasted%20image%2020230627020344.png)
+
+
+#### 3.4 Features : 
+
+![](README.assets/Pasted%20image%2020230627134302.png)
+
+![](README.assets/Pasted%20image%2020230627135106.png)
+
+![](README.assets/Pasted%20image%2020230627135132.png)
+
+![](README.assets/Pasted%20image%2020230627135222.png)
+
+![](README.assets/Pasted%20image%2020230627135523.png)
+
+![](README.assets/Pasted%20image%2020230627135555.png)
+
+![](README.assets/Pasted%20image%2020230627135804.png)
+
+![](README.assets/Pasted%20image%2020230627135823.png)
 
 
